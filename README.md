@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:30:58.401Z",
+  "updatedAt": "2026-05-31T13:31:00.553Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -808,7 +808,10 @@ Generated application files are committed to the repository default branch after
   ],
   "activeInputId": "input_c88e737f2c6e96ec997a",
   "activeRunKind": "edit",
-  "codexRunId": "resp_00fe0a613e4e9287006a1c37359f60819d9c879b5ea75106f9"
+  "codexRunId": "resp_00fe0a613e4e9287006a1c37359f60819d9c879b5ea75106f9",
+  "githubPagesUrl": "https://natalikrasnov.github.io/pocket-mini-app/",
+  "githubPagesStatus": "publishing",
+  "githubPagesUpdatedAt": "2026-05-31T13:31:00.553Z"
 }
 ~~~
 
@@ -835,9 +838,9 @@ Summary: A tiny mobile-first web app showcasing a clean home screen, one simple 
 
 Repository: https://github.com/natalikrasnov/pocket-mini-app
 
-Live site: pending GitHub Pages publish
+Live site: https://natalikrasnov.github.io/pocket-mini-app/
 
-GitHub Pages status: pending
+GitHub Pages status: publishing
 
 Code branch: main
 
