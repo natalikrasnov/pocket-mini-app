@@ -12,7 +12,7 @@ Generated application files are committed to the repository default branch after
   "name": "Pocket Mini App",
   "summary": "A tiny mobile-first web app showcasing a clean home screen, one simple interactive feature, and lightweight settings—all running fully in the browser as static files.",
   "status": "SAVING_TO_GITHUB",
-  "currentStep": "Configuring GitHub Pages",
+  "currentStep": "Saving files to GitHub",
   "githubRepoUrl": "https://github.com/natalikrasnov/pocket-mini-app",
   "githubOwner": "natalikrasnov",
   "githubRepo": "pocket-mini-app",
@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:31:01.881Z",
+  "updatedAt": "2026-05-31T13:31:03.250Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -567,6 +567,13 @@ Generated application files are committed to the repository default branch after
       "level": "success",
       "status": "SAVING_TO_GITHUB",
       "details": "https://natalikrasnov.github.io/pocket-mini-app/"
+    },
+    {
+      "id": "action_791ed8b35491aaa3079f",
+      "at": "2026-05-31T13:31:03.250Z",
+      "message": "Preparing GitHub Pages deployment",
+      "level": "info",
+      "status": "SAVING_TO_GITHUB"
     }
   ],
   "inputs": [
@@ -825,7 +832,7 @@ Generated application files are committed to the repository default branch after
 
 ## Status
 
-Current stage: **Configuring GitHub Pages**
+Current stage: **Saving files to GitHub**
 
 Complete: **no**
 
@@ -1116,6 +1123,7 @@ Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:30:51.561Z - Preparing GitHub repository (info)
 - 2026-05-31T13:30:58.401Z - Configuring GitHub Pages publishing (info)
 - 2026-05-31T13:31:01.881Z - GitHub Pages link ready (success) - https://natalikrasnov.github.io/pocket-mini-app/
+- 2026-05-31T13:31:03.250Z - Preparing GitHub Pages deployment (info)
 
 ## Latest Error
 
