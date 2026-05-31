@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T14:53:31.593Z",
+  "updatedAt": "2026-05-31T14:53:33.121Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -620,6 +620,14 @@ Generated application files are committed to the repository default branch after
       "level": "info",
       "status": "LIVE",
       "details": "https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036"
+    },
+    {
+      "id": "action_100e672e206e92c56c92",
+      "at": "2026-05-31T14:53:33.121Z",
+      "message": "GitHub Pages workflow failed",
+      "level": "error",
+      "status": "LIVE",
+      "details": "Conclusion: failure\nWorkflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26715844153"
     }
   ],
   "inputs": [
@@ -1150,6 +1158,8 @@ Code: CODEX_EMPTY_RESPONSE
 Workflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036
 - 2026-05-31T14:52:14.709Z - Retrying GitHub Pages deployment workflow run (info)
 - 2026-05-31T14:52:21.887Z - Requested GitHub Pages workflow run (info) - https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036
+- 2026-05-31T14:53:33.121Z - GitHub Pages workflow failed (error) - Conclusion: failure
+Workflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26715844153
 
 ## Latest Error
 
