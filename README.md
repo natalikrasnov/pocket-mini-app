@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:44:37.136Z",
+  "updatedAt": "2026-05-31T13:44:38.529Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -597,6 +597,14 @@ Generated application files are committed to the repository default branch after
       "message": "Project saved to GitHub",
       "level": "success",
       "status": "LIVE"
+    },
+    {
+      "id": "action_2f4fb7cc65fc71a7cf98",
+      "at": "2026-05-31T13:44:38.529Z",
+      "message": "GitHub Pages workflow failed",
+      "level": "error",
+      "status": "LIVE",
+      "details": "Conclusion: cancelled\nWorkflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036"
     }
   ],
   "inputs": [
@@ -1122,6 +1130,8 @@ Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:31:07.553Z - Files committed to GitHub (success) - 1714275f45725027dd57519e1c376cd39eb600f8
 - 2026-05-31T13:31:12.568Z - Requested GitHub Pages workflow run (info) - https://github.com/natalikrasnov/pocket-mini-app/actions/workflows/deployrocket-pages.yml
 - 2026-05-31T13:31:15.713Z - Project saved to GitHub (success)
+- 2026-05-31T13:44:38.529Z - GitHub Pages workflow failed (error) - Conclusion: cancelled
+Workflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036
 
 ## Latest Error
 
