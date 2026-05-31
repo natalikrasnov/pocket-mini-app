@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T14:52:15.910Z",
+  "updatedAt": "2026-05-31T14:52:20.446Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -828,15 +828,15 @@ Generated application files are committed to the repository default branch after
   ],
   "codexRunId": "resp_00fe0a613e4e9287006a1c37359f60819d9c879b5ea75106f9",
   "githubPagesUrl": "https://natalikrasnov.github.io/pocket-mini-app/",
-  "githubPagesStatus": "errored",
-  "githubPagesUpdatedAt": "2026-05-31T13:44:37.136Z",
-  "githubPagesSourceSha": "1714275f45725027dd57519e1c376cd39eb600f8",
+  "githubPagesStatus": "publishing",
+  "githubPagesUpdatedAt": "2026-05-31T14:52:20.446Z",
+  "githubPagesSourceSha": "5f279ef1a2aa20eb7d2b270f4baac14657abe7f7",
   "githubLastCommitSha": "1714275f45725027dd57519e1c376cd39eb600f8",
-  "githubWorkflowRunId": 26713992036,
-  "githubWorkflowRunUrl": "https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036",
+  "githubWorkflowRunId": 26713991997,
+  "githubWorkflowRunUrl": "https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713991997",
   "githubWorkflowRunStatus": "completed",
-  "githubWorkflowRunConclusion": "cancelled",
-  "githubPagesFailureDetails": "Conclusion: cancelled\nWorkflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036"
+  "githubWorkflowRunConclusion": "failure",
+  "pagesDispatchRequestedAt": "2026-05-31T14:52:20.446Z"
 }
 ~~~
 
@@ -865,7 +865,7 @@ Repository: https://github.com/natalikrasnov/pocket-mini-app
 
 Live site: https://natalikrasnov.github.io/pocket-mini-app/
 
-GitHub Pages status: errored
+GitHub Pages status: publishing
 
 Code branch: main
 
