@@ -12,7 +12,7 @@ Generated application files are committed to the repository default branch after
   "name": "Pocket Mini App",
   "summary": "A tiny mobile-first web app showcasing a clean home screen, one simple interactive feature, and lightweight settings—all running fully in the browser as static files.",
   "status": "LIVE",
-  "currentStep": "Publishing to GitHub Pages",
+  "currentStep": "GitHub Pages needs attention",
   "githubRepoUrl": "https://github.com/natalikrasnov/pocket-mini-app",
   "githubOwner": "natalikrasnov",
   "githubRepo": "pocket-mini-app",
@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:31:15.713Z",
+  "updatedAt": "2026-05-31T13:44:37.136Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -813,17 +813,21 @@ Generated application files are committed to the repository default branch after
   ],
   "codexRunId": "resp_00fe0a613e4e9287006a1c37359f60819d9c879b5ea75106f9",
   "githubPagesUrl": "https://natalikrasnov.github.io/pocket-mini-app/",
-  "githubPagesStatus": "publishing",
-  "githubPagesUpdatedAt": "2026-05-31T13:31:11.146Z",
+  "githubPagesStatus": "errored",
+  "githubPagesUpdatedAt": "2026-05-31T13:44:37.136Z",
   "githubPagesSourceSha": "1714275f45725027dd57519e1c376cd39eb600f8",
   "githubLastCommitSha": "1714275f45725027dd57519e1c376cd39eb600f8",
-  "pagesDispatchRequestedAt": "2026-05-31T13:31:11.146Z"
+  "githubWorkflowRunId": 26713992036,
+  "githubWorkflowRunUrl": "https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036",
+  "githubWorkflowRunStatus": "completed",
+  "githubWorkflowRunConclusion": "cancelled",
+  "githubPagesFailureDetails": "Conclusion: cancelled\nWorkflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036"
 }
 ~~~
 
 ## Status
 
-Current stage: **Publishing to GitHub Pages**
+Current stage: **GitHub Pages needs attention**
 
 Complete: **yes**
 
@@ -846,7 +850,7 @@ Repository: https://github.com/natalikrasnov/pocket-mini-app
 
 Live site: https://natalikrasnov.github.io/pocket-mini-app/
 
-GitHub Pages status: publishing
+GitHub Pages status: errored
 
 Code branch: main
 
