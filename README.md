@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:31:00.553Z",
+  "updatedAt": "2026-05-31T13:31:01.881Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -559,6 +559,14 @@ Generated application files are committed to the repository default branch after
       "message": "Configuring GitHub Pages publishing",
       "level": "info",
       "status": "SAVING_TO_GITHUB"
+    },
+    {
+      "id": "action_d0d28c78a98f3cbacae8",
+      "at": "2026-05-31T13:31:01.881Z",
+      "message": "GitHub Pages link ready",
+      "level": "success",
+      "status": "SAVING_TO_GITHUB",
+      "details": "https://natalikrasnov.github.io/pocket-mini-app/"
     }
   ],
   "inputs": [
@@ -1107,6 +1115,7 @@ Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:30:50.203Z - Generation completed with warnings (warning) - Truncated in this response due to size constraints; ensure all required files are included in actual output.
 - 2026-05-31T13:30:51.561Z - Preparing GitHub repository (info)
 - 2026-05-31T13:30:58.401Z - Configuring GitHub Pages publishing (info)
+- 2026-05-31T13:31:01.881Z - GitHub Pages link ready (success) - https://natalikrasnov.github.io/pocket-mini-app/
 
 ## Latest Error
 
