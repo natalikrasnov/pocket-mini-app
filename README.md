@@ -10,7 +10,7 @@ Application files have not been generated yet. The latest deployRocket run faile
 
 Current stage: Failed
 
-Latest error: Auto-fix agent needs user help to continue.
+Latest error: OpenAI quota exceeded for Codex generation.
 
 Live site: pending GitHub Pages publish
 
