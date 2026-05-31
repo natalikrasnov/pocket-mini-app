@@ -12,7 +12,7 @@ Generated application files are committed to the repository default branch after
   "name": "Pocket Mini App",
   "summary": "A tiny mobile-first web app showcasing a clean home screen, one simple interactive feature, and lightweight settings—all running fully in the browser as static files.",
   "status": "LIVE",
-  "currentStep": "GitHub Pages needs attention",
+  "currentStep": "Publishing to GitHub Pages",
   "githubRepoUrl": "https://github.com/natalikrasnov/pocket-mini-app",
   "githubOwner": "natalikrasnov",
   "githubRepo": "pocket-mini-app",
@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:44:38.529Z",
+  "updatedAt": "2026-05-31T14:52:14.709Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -605,6 +605,13 @@ Generated application files are committed to the repository default branch after
       "level": "error",
       "status": "LIVE",
       "details": "Conclusion: cancelled\nWorkflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036"
+    },
+    {
+      "id": "action_d3eb5cb1804563704450",
+      "at": "2026-05-31T14:52:14.709Z",
+      "message": "Retrying GitHub Pages deployment workflow run",
+      "level": "info",
+      "status": "LIVE"
     }
   ],
   "inputs": [
@@ -835,7 +842,7 @@ Generated application files are committed to the repository default branch after
 
 ## Status
 
-Current stage: **GitHub Pages needs attention**
+Current stage: **Publishing to GitHub Pages**
 
 Complete: **yes**
 
@@ -1132,6 +1139,7 @@ Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:31:15.713Z - Project saved to GitHub (success)
 - 2026-05-31T13:44:38.529Z - GitHub Pages workflow failed (error) - Conclusion: cancelled
 Workflow run: https://github.com/natalikrasnov/pocket-mini-app/actions/runs/26713992036
+- 2026-05-31T14:52:14.709Z - Retrying GitHub Pages deployment workflow run (info)
 
 ## Latest Error
 
