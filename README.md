@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:30:48.909Z",
+  "updatedAt": "2026-05-31T13:30:50.203Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -537,6 +537,14 @@ Generated application files are committed to the repository default branch after
       "message": "Codex generated 7 project files",
       "level": "success",
       "status": "CODEX_WORKING"
+    },
+    {
+      "id": "action_7af2130d135de7c86281",
+      "at": "2026-05-31T13:30:50.203Z",
+      "message": "Generation completed with warnings",
+      "level": "warning",
+      "status": "CODEX_WORKING",
+      "details": "Truncated in this response due to size constraints; ensure all required files are included in actual output."
     }
   ],
   "inputs": [
@@ -1079,6 +1087,7 @@ Code: CODEX_EMPTY_RESPONSE
 Original error: Codex returned no generated files.
 Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:30:48.909Z - Codex generated 7 project files (success)
+- 2026-05-31T13:30:50.203Z - Generation completed with warnings (warning) - Truncated in this response due to size constraints; ensure all required files are included in actual output.
 
 ## Latest Error
 
