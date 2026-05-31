@@ -12,7 +12,7 @@ Generated application files are committed to the repository default branch after
   "name": "Pocket Mini App",
   "summary": "A tiny mobile-first web app showcasing a clean home screen, one simple interactive feature, and lightweight settings—all running fully in the browser as static files.",
   "status": "SAVING_TO_GITHUB",
-  "currentStep": "Saving files to GitHub",
+  "currentStep": "Configuring GitHub Pages",
   "githubRepoUrl": "https://github.com/natalikrasnov/pocket-mini-app",
   "githubOwner": "natalikrasnov",
   "githubRepo": "pocket-mini-app",
@@ -20,7 +20,7 @@ Generated application files are committed to the repository default branch after
   "githubDefaultBranch": "main",
   "error": null,
   "createdAt": "2026-05-27T11:03:13.038Z",
-  "updatedAt": "2026-05-31T13:30:57.121Z",
+  "updatedAt": "2026-05-31T13:30:58.401Z",
   "actions": [
     {
       "id": "action_31cdc0b94c6c17bb318b",
@@ -552,6 +552,13 @@ Generated application files are committed to the repository default branch after
       "message": "Preparing GitHub repository",
       "level": "info",
       "status": "SAVING_TO_GITHUB"
+    },
+    {
+      "id": "action_b63514b378beca787835",
+      "at": "2026-05-31T13:30:58.401Z",
+      "message": "Configuring GitHub Pages publishing",
+      "level": "info",
+      "status": "SAVING_TO_GITHUB"
     }
   ],
   "inputs": [
@@ -807,7 +814,7 @@ Generated application files are committed to the repository default branch after
 
 ## Status
 
-Current stage: **Saving files to GitHub**
+Current stage: **Configuring GitHub Pages**
 
 Complete: **no**
 
@@ -1096,6 +1103,7 @@ Code: CODEX_EMPTY_RESPONSE
 - 2026-05-31T13:30:48.909Z - Codex generated 7 project files (success)
 - 2026-05-31T13:30:50.203Z - Generation completed with warnings (warning) - Truncated in this response due to size constraints; ensure all required files are included in actual output.
 - 2026-05-31T13:30:51.561Z - Preparing GitHub repository (info)
+- 2026-05-31T13:30:58.401Z - Configuring GitHub Pages publishing (info)
 
 ## Latest Error
 
